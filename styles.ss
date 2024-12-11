@@ -14,3 +14,11 @@ body {
     padding: 0.5em 0;
     z-index: 1000;
 }
+
+#navbar ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+}
