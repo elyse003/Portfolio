@@ -22,3 +22,7 @@ body {
     margin: 0;
     padding: 0;
 }
+
+#navbar li {
+    margin: 0 1em;
+}
