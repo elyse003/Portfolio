@@ -37,3 +37,13 @@ body {
 #navbar a:hover {
     color: #00aced;
 }
+
+#welcome-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: #f4f4f4;
+    text-align: center;
+}
