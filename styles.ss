@@ -4,3 +4,13 @@ body {
     line-height: 1.6;
     color: #333;
 }
+
+#navbar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background: #444;
+    color: #fff;
+    padding: 0.5em 0;
+    z-index: 1000;
+}
