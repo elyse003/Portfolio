@@ -26,3 +26,10 @@ body {
 #navbar li {
     margin: 0 1em;
 }
+
+#navbar a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s;
+}
