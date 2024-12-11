@@ -47,3 +47,8 @@ body {
     background: #f4f4f4;
     text-align: center;
 }
+
+#welcome-section h1 {
+    font-size: 3em;
+    margin: 0.5em 0;
+}
