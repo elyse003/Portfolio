@@ -33,3 +33,7 @@ body {
     font-weight: bold;
     transition: color 0.3s;
 }
+
+#navbar a:hover {
+    color: #00aced;
+}
